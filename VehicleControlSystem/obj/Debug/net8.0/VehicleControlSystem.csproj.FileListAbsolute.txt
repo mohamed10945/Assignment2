@@ -1,0 +1,14 @@
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\bin\Debug\net8.0\VehicleControlSystem.exe
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\bin\Debug\net8.0\VehicleControlSystem.deps.json
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\bin\Debug\net8.0\VehicleControlSystem.runtimeconfig.json
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\bin\Debug\net8.0\VehicleControlSystem.dll
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\bin\Debug\net8.0\VehicleControlSystem.pdb
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.AssemblyInfoInputs.cache
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.AssemblyInfo.cs
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.csproj.CoreCompileInputs.cache
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.dll
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\refint\VehicleControlSystem.dll
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.pdb
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\VehicleControlSystem.genruntimeconfig.cache
+C:\vscode_projects\c# projects\Assignment2\VehicleControlSystem\obj\Debug\net8.0\ref\VehicleControlSystem.dll

@@ -1,0 +1,14 @@
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\bin\Debug\net8.0\CustomerNotifications.exe
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\bin\Debug\net8.0\CustomerNotifications.deps.json
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\bin\Debug\net8.0\CustomerNotifications.runtimeconfig.json
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\bin\Debug\net8.0\CustomerNotifications.dll
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\bin\Debug\net8.0\CustomerNotifications.pdb
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.AssemblyInfoInputs.cache
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.AssemblyInfo.cs
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.csproj.CoreCompileInputs.cache
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.dll
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\refint\CustomerNotifications.dll
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.pdb
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\CustomerNotifications.genruntimeconfig.cache
+C:\vscode_projects\c# projects\Assignment2\CustomerNotifications\obj\Debug\net8.0\ref\CustomerNotifications.dll

@@ -1,0 +1,14 @@
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\bin\Debug\net8.0\MediaPlayerPlugins.exe
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\bin\Debug\net8.0\MediaPlayerPlugins.deps.json
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\bin\Debug\net8.0\MediaPlayerPlugins.runtimeconfig.json
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\bin\Debug\net8.0\MediaPlayerPlugins.dll
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\bin\Debug\net8.0\MediaPlayerPlugins.pdb
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.AssemblyInfoInputs.cache
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.AssemblyInfo.cs
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.csproj.CoreCompileInputs.cache
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.dll
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\refint\MediaPlayerPlugins.dll
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.pdb
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\MediaPlayerPlugins.genruntimeconfig.cache
+C:\vscode_projects\c# projects\Assignment2\MediaPlayerPlugins\obj\Debug\net8.0\ref\MediaPlayerPlugins.dll

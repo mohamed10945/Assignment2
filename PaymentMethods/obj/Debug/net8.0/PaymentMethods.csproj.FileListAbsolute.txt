@@ -1,0 +1,14 @@
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\bin\Debug\net8.0\PaymentMethods.exe
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\bin\Debug\net8.0\PaymentMethods.deps.json
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\bin\Debug\net8.0\PaymentMethods.runtimeconfig.json
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\bin\Debug\net8.0\PaymentMethods.dll
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\bin\Debug\net8.0\PaymentMethods.pdb
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.AssemblyInfoInputs.cache
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.AssemblyInfo.cs
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.csproj.CoreCompileInputs.cache
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.dll
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\refint\PaymentMethods.dll
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.pdb
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\PaymentMethods.genruntimeconfig.cache
+C:\vscode_projects\c# projects\Assignment2\PaymentMethods\obj\Debug\net8.0\ref\PaymentMethods.dll
